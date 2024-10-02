@@ -10,12 +10,19 @@ Linkedin: [Yola K](www.linkedin.com/in/yolakamalita)
 - Data Analyst - Jakarta Smart City (2018-2020)
 
 ### Education 🎓
-- MSc in Data Analytics - University of Glasgow
-- BSc in Mathematics - Bandung Institute of Technology
+- MSc in Data Analytics - University of Glasgow, Scotland, United Kingdom
+- BSc in Mathematics - Bandung Institute of Technology, Bandung, Indonesia
 
-### Specialities 🚀
+### Areas of specialization 🚀
 - Leading end-to-end experimentation to deploy Enginering and Data Science solutions.
 - In-depth analytics to uncover actionable insights and data-driven decision making.
-- Statistical modeling and machine learning, including data pipeline and model deployment.
+- Statistical modeling and machine learning, including data pipeline and model deployment (e.g., alerts, dashboard).
+
+### Online Courses 📜
+- (In Progress) Generative AI - DTSense: NLP, LLM, RAG, Deployment.
+- DeepLearning.AI: Machine Learning, Deep Learning, TensorFlow.
+- Indonesia AI: Deep Learning.
+- Coursera: Experimentation, Spatial Data Science, Causal Effect.
+- DataCamp: Data Analyst with Python.
 
 
