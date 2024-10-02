@@ -16,6 +16,6 @@ Linkedin: [Yola K](www.linkedin.com/in/yolakamalita)
 ### Specialities 🚀
 - Leading end-to-end experimentation to deploy Enginering and Data Science solutions.
 - In-depth analytics to uncover actionable insights and data-driven decision making.
-- Statistical modeling and machine learning, including data pipeline and deployment.
+- Statistical modeling and machine learning, including data pipeline and model deployment.
 
 
