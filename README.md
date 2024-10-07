@@ -18,7 +18,7 @@ Linkedin: [Yola K](www.linkedin.com/in/yolakamalita)
 - In-depth analytics to uncover actionable insights and data-driven decision making.
 - Statistical modeling and machine learning, including data pipeline and model deployment (e.g., alerts, dashboard).
 
-### Online Courses 📜
+### Online Courses (Learning Interest) 📜
 - (In Progress) Generative AI - DTSense: NLP, LLM, RAG, Deployment.
 - DeepLearning.AI: Machine Learning, Deep Learning, TensorFlow.
 - Indonesia AI: Deep Learning.
