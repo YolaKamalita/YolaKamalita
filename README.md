@@ -6,6 +6,7 @@
 Linkedin: [Yola K](www.linkedin.com/in/yolakamalita)
 
 ### Working Experiences 🎒
+- Data Scientist (Analytics) - Grab (2024-Present)
 - Data Analyst - Gojek (2020-2023)
 - Data Analyst - Jakarta Smart City (2018-2020)
 
